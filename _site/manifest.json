@@ -33,10 +33,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/firstArticle.html",
-          "hash": "P/Qh/M5Nhd+4UOZxXKqgYQ=="
+          "hash": "TrJNQBkd0d6qhYI7oTeXSw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -72,7 +72,7 @@
           "hash": "NXc8pj58Kuq+5yTpnr00BA=="
         }
       },
-      "is_incremental": false,
+      "is_incremental": true,
       "version": ""
     },
     {
