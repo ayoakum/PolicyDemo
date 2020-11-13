@@ -1,4 +1,4 @@
-  Name: Purpose
+- name: Purpose
   href: ChildPurpose.md
-  Name: Values
+- name: Values
   href: Values.md
