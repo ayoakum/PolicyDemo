@@ -1,4 +1,4 @@
-**Purpose**
+**24.3B**
 
 ***The Oregon Department of Human Services (DHS)***, Office of Child Welfare (CW) Programs provides guidance in this
 manual for all DHS CW professionals. 
@@ -15,6 +15,7 @@ Comprehensive direction is in this manual for caseworkers to know:
 1. What a child safety assessments entails, and
 1. How to monitor and intervene throughout the life of a case.
 
+**CHANGE**
 
 The manual is in chapters as listed in the table of contents. Each chapter consists of:
 1. Procedures (what and how to do the job),
