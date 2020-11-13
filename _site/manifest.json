@@ -4,15 +4,24 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "rUi/KVEJTtPSRsTOMSgqKA=="
+          "hash": "Y+qIxLYosVLCcj9d6y31JA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -33,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/ChildPurpose.html",
-          "hash": "BdZew9W179JGOJkg6bPAKA=="
+          "hash": "eac4CGr2k0Q6SuGKDSYCBg=="
         }
       },
       "is_incremental": false,
@@ -45,7 +54,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/Values.html",
-          "hash": "lXkgla8wUFDBL/9lxku8zA=="
+          "hash": "q/tKBn34GGdTGvLmk72MIw=="
         }
       },
       "is_incremental": false,
@@ -57,10 +66,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "bgD0RdaI1agLeGorbt9gQA=="
+          "hash": "yQ46+YwdeVypvX0KPds/Lw=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -81,10 +90,10 @@
       "output": {
         ".html": {
           "relative_path": "articles/topic.html",
-          "hash": "7PSkFX57djt0nZ8Eejmk+w=="
+          "hash": "Bt6lNexpig3IVfuGXKIa/g=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -93,10 +102,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "x1kMD6W9nUSm391KKl2t1A=="
+          "hash": "iV51HBbhYqUDaRsbmt7bjA=="
         }
       },
-      "is_incremental": true,
+      "is_incremental": false,
       "version": ""
     },
     {
@@ -115,17 +124,19 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": true,
+        "can_incremental": false,
+        "details": "Cannot build incrementally because config changed.",
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ConfigChanged"
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": true,
+          "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 6,
-          "skipped_file_count": 4
+          "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
@@ -138,8 +149,8 @@
     },
     {
       "status": {
-        "can_incremental": true,
-        "details": "Can support incremental post processing.",
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
         "incrementalPhase": "postProcessing",
         "total_file_count": 0,
         "skipped_file_count": 0

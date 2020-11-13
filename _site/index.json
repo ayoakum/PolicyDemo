@@ -1,0 +1,32 @@
+{
+  "api/index.html": {
+    "href": "api/index.html",
+    "title": "PLACEHOLDER",
+    "keywords": "PLACEHOLDER TODO: Add .NET projects to the src folder and run docfx to generate REAL API Documentation !"
+  },
+  "articles/ChildPurpose.html": {
+    "href": "articles/ChildPurpose.html",
+    "title": "",
+    "keywords": "Purpose The Oregon Department of Human Services (DHS), Office of Child Welfare (CW) Programs provides guidance in this manual for all DHS CW professionals. This manual contains best practices for working with families, providers and colleagues. Be sure to apply these best practices to arrive at positive outcomes for Oregon children and their families. The purpose of this manual, in child welfare service delivery in Oregon, is to: Increase the standard, and Improve consistency. It does not supersede federal or state administrative rules or laws. Comprehensive direction is in this manual for caseworkers to know: What a child safety assessments entails, and How to monitor and intervene throughout the life of a case. The manual is in chapters as listed in the table of contents. Each chapter consists of: Procedures (what and how to do the job), Tip boxes, and Exhibits. Oregon Child Welfare works with those we describe as children, teenagers and youth. Nevertheless, the term in the manual for all these categories is the word child . Tip Throughout this manual, CW attempts to answer what and how. WHAT: More often than not, the what outlines requirements in administrative rule (law). HOW Step-by-step guidance on best practice in Oregon Child Welfare."
+  },
+  "articles/intro.html": {
+    "href": "articles/intro.html",
+    "title": "Add your introductions here!",
+    "keywords": "Add your introductions here!"
+  },
+  "articles/topic.html": {
+    "href": "articles/topic.html",
+    "title": "",
+    "keywords": "New Topic As we explore new ways of making web pages, we are intrigued by what is possible."
+  },
+  "articles/Values.html": {
+    "href": "articles/Values.html",
+    "title": "",
+    "keywords": "Vision, Mission and Values Vision Department of Human Services (DHS) Safety, health and independence for all Oregonians. Office of Child Welfare Programs (OCWP) Every child and family have a safe and positive environment in which to live and develop. Mission To help Oregonians in their own communities achieve well-being and independence through opportunities that protect, empower, respect choice and preserve dignity. OCWP Improve family capacity to be self-sustaining while creating a safe and permanent living environment for children. Values Below are the seven Core Values that provide the foundation for how we interact with our clients and coworkers: Integrity Innovation Respect Service Equity Responsibility Stewardship Professionalism OCWP Oregon's child welfare practices focus on each child's individualized needs for safety, permanency and well-being. The following four core values are the foundation for OCWP's policies, procedures and practices and guide service delivery to our children, youth, families and communities: Integrity Innovation Respect Service Equity"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE.",
+    "keywords": "This is the HOMEPAGE . Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
