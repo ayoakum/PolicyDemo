@@ -1,6 +1,6 @@
 {
   "homepages": [],
-  "source_base_path": "C:/repo/docfx_project",
+  "source_base_path": "c:/repo/docfx_project",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -42,7 +42,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/ChildPurpose.html",
-          "hash": "eac4CGr2k0Q6SuGKDSYCBg=="
+          "hash": "BUdhGytw6HwQeFIltXzWcA=="
         }
       },
       "is_incremental": false,
@@ -124,19 +124,17 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because config changed.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "ConfigChanged"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 6,
-          "skipped_file_count": 0
+          "skipped_file_count": 5
         },
         "TocDocumentProcessor": {
           "can_incremental": false,

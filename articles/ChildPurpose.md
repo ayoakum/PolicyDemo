@@ -1,6 +1,6 @@
 **Purpose**
 
-The Oregon Department of Human Services (DHS), Office of Child Welfare (CW) Programs provides guidance in this
+***The Oregon Department of Human Services (DHS)***, Office of Child Welfare (CW) Programs provides guidance in this
 manual for all DHS CW professionals. 
 
 This manual contains best practices for working with families, providers and
