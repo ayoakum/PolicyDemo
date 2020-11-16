@@ -24,7 +24,7 @@ The manual is in chapters as listed in the table of contents. Each chapter consi
 
 Oregon Child Welfare works with those we describe as children, teenagers and youth. Nevertheless, the term in the
 manual for all these categories is the word *child*.
-Tip
+**Tip**
 Throughout this manual, CW attempts to answer what and how.
 WHAT: More often than not, the *what* outlines requirements in administrative rule (law).
 
